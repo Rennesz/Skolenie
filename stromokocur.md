@@ -2,4 +2,6 @@
 
 Ja si myslim ze ano
 V roku 2024 si kupim rybarsky a privlace ano :]
-Ticho uz kubo 
+Ticho uz kubo
+
+* NO KONECNE MOZEM PISAT VY HOVEDA
