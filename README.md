@@ -1,0 +1,2 @@
+# Skolenie
+Spolupraca
