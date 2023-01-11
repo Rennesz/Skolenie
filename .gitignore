@@ -1,3 +1,4 @@
 Rene.txt
-Lentak.bin
-Rene.bin
+*.bin
+*.exe
+
