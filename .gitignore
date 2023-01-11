@@ -1,4 +1,4 @@
 Rene.txt
 *.bin
 *.exe
-
+/output
