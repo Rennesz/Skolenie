@@ -2,3 +2,5 @@ Rene.txt
 *.bin
 *.exe
 /output
+/temp
+/dir/mydir/
